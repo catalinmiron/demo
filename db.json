@@ -11,7 +11,10 @@
   "profile": {
     "name": "typicode"
   },
-  "push":{
+  "second_profile": {
+    "name": "gibi"
+  },
+  "push": {
     "tokens": ["1", "2"],
     "testing": "name"
   }
