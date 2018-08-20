@@ -12,6 +12,7 @@
     "name": "typicode"
   },
   "push":{
-    "tokens": ["1", "2"]
+    "tokens": ["1", "2"],
+    "testing": "name"
   }
 }
